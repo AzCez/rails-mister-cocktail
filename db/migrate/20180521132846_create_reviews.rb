@@ -9,3 +9,5 @@ class CreateReviews < ActiveRecord::Migration[5.1]
     end
   end
 end
+
+
