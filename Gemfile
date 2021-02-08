@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 # to upload files associated to Models
-gem 'carrierwave', '~> 1.2'
+gem 'carrierwave', '~> 1.3'
 # gitignore
 gem 'dotenv-rails', groups: [:development, :test]
 #Cloudinary
